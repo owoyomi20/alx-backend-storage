@@ -1,5 +1,3 @@
-# alx-backend-stoSure, here is another possible readme for your project:
-
 # alx-backend-storage
 
 This project is a backend storage system that uses MySQL as the database engine. It allows you to store and manipulate data using advanced SQL features such as transactions, stored procedures, triggers, views and indexes.
